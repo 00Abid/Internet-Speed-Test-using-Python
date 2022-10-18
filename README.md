@@ -1,1 +1,1 @@
-# Internet-Speed-Test-using-Python
+# Internet-Speed-Tester-using-Python
